@@ -1,0 +1,7 @@
+ <
+            autocapitalize="off"
+            spellcheck="false"
+            class="js-input typeahead-input form-control border-0 box-shadow-none input-block width-full no-focus-indicator"
+            aria-label="Command palette input"
+            aria-haspopup="listbox"
+         >
